@@ -1,3 +1,5 @@
+# Copyright (c) 2021-2022 Jack Mcnish All Rights Reserved
+
 from django.shortcuts import render, redirect  
 from .models import Stock
 from django.contrib import messages
